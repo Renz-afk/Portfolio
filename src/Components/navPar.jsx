@@ -171,7 +171,7 @@ const Navbar = ({ toggleTheme, currentTheme }) => {
               
             }}
           >
-            PORTFOLIO
+            Renz Jan
           </Typography>
           
           <Box sx={{width:'100%', display: { xs: 'none', md: 'flex' }}}><Typography>         </Typography></Box>
