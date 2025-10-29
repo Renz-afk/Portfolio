@@ -39,7 +39,7 @@ export const projectData = [
       title: 'My Portfolio Website',
       description: 'My Portfolio website to showcase my skills, projects, and experience as a developer.',
       imgPath: '/portfolio.png',
-      demoLink:'https://portfolio-alpha-two-14.vercel.app/',
+      demoLink:'https://portfolio-seven-iota-70.vercel.app/',
       technologies: ['Github, Material-UI, React+Vite', 'Firebase' ]
     },
   
